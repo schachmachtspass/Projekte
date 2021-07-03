@@ -617,10 +617,10 @@
               }
             },
             "H5": {
-              "color": "#4479d9"
+              "color": "#e43f3f"
             },
             "P": {
-              "color": "#000000",
+              "color": "#e43f3f",
               "text-align": "center"
             }
           },
